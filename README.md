@@ -2,4 +2,4 @@
 
 ```bash
 cargo run
-```{
+```
